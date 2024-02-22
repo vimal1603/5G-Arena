@@ -1,0 +1,41 @@
+
+     
+      body {
+        font-family: Arial, sans-serif;
+      }
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 40px;
+	  color:white;
+      }
+      h1 {
+        text-align: center;
+        margin-bottom: 40px;
+      }
+      .about-section {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      }
+      .about-section .image {
+        width: 40%;
+        margin-right: 40px;
+      }
+      .about-section .image {
+        color:red;
+	  font-size:500%;
+	  font-family:fantasy;
+	  margin:2%;
+      }
+      .about-section .content {
+        width: 55%;
+	  color:white;
+      }
+      .about-section p {
+        margin-bottom: 20px;
+        line-height: 1.5;
+      }
+      
+
+    
